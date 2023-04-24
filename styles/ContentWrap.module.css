@@ -1,0 +1,13 @@
+.contentWrap {
+  position: relative;
+  top: 60px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.contentWrap h1,
+.contentWrap h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #000;
+}
